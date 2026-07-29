@@ -1,4 +1,5 @@
-# How-to: README für ein Forschungs-Repository erstellen
+<img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/d2cd6bcb-375b-44a2-a4b5-9dfaf6f9cf09" />
+
 
 Eine README in einem Forschungsprojekt dient dazu, das Repository verständlich zu machen, den wissenschaftlichen Kontext zu erklären und die Nutzung bzw. Reproduzierbarkeit zu ermöglichen. Sie ist der erste Einstiegspunkt für alle, die das Projekt verstehen oder weiterverwenden möchten.
 
