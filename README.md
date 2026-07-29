@@ -7,10 +7,7 @@
 <img width="1618" height="122" alt="grafik" src="https://github.com/user-attachments/assets/92830244-4112-451b-9f87-88972fc2a4b5" />
 
 
-
-# best-practice
-
-Willkommen bei best practices! Hier sind Empfehlungen und bewährte Vorgehensweisen für Git, Forschungssoftwareentwicklung und Forschungsdatenmanagement zu finden.
+Hier sind Empfehlungen und bewährte Vorgehensweisen für Git, Forschungssoftwareentwicklung und Forschungsdatenmanagement zu finden.
 
 <details>
 <summary>Inhalt</summary>
