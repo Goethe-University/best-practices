@@ -1,4 +1,5 @@
-# Erstellen einer CITATION.cff-Datei
+<img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/b44f5d1b-1e94-411f-b66c-e7f58c02f897" />
+
 
 ---
 
