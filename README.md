@@ -7,7 +7,9 @@
 <img width="1618" height="122" alt="grafik" src="https://github.com/user-attachments/assets/92830244-4112-451b-9f87-88972fc2a4b5" />
 
 
-Hier sind Empfehlungen und bewährte Vorgehensweisen für Git, Forschungssoftwareentwicklung und Forschungsdatenmanagement zu finden.
+Hier sind Empfehlungen und bewährte Vorgehensweisen und konkrete Schritt-für-Schritt-Anleitungen für Git, Forschungssoftwareentwicklung und Forschungsdatenmanagement zu finden. 
+
+---
 
 <details>
 <summary>Inhalt</summary>
@@ -17,6 +19,8 @@ Hier sind Empfehlungen und bewährte Vorgehensweisen für Git, Forschungssoftwar
 * [FAIR-Prinzipien](#fair-prinzipien-für-forschungssoftware)
   
 * [Sichtbarkeit in GitHub](#sichtbarkeit-in-github)
+
+* [Schritt-für-Schritt-Anleitungen](#schritt-für-schritt-anleitungen)
 
 </details>
 
@@ -44,4 +48,21 @@ weiterentwickelt oder in andere Software integriert werden)
 ---
 
 ### Sichtbarkeit in GitHub
+
+
+---
+
+### Schritt-für-Schritt-Anleitungen
+
+Das erste Mal ein README anlegen oder die eigene Entwicklunhgsumgebung mit GitHub dem eigenen GitHub-Account verknüpfen? Untergeordnet sind ausführliche Anleitungen zu verschiedenen Vorgängen in GitHub zu finden.
+
+* [CITATION.cff-Datei erstellen](https://github.com/Goethe-University/best-practices/blob/main/how-to-cff.de.md)
+* [README anlegen](https://github.com/Goethe-University/best-practices/blob/main/how-to-readme.de.md)
+* Verknüpfung zu RStudio
+
+Eine wichtige Anleitung fehlt oder die vorhandenen sind veraltet? Gerne unter git@ub.uni.frankfurt.de melden.
+
+
+  
+
 
