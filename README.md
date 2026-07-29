@@ -59,7 +59,7 @@ Das erste Mal ein README anlegen oder die eigene Entwicklunhgsumgebung mit GitHu
 
 * [CITATION.cff-Datei erstellen](https://github.com/Goethe-University/best-practices/blob/main/how-to-cff.de.md)
 * [README anlegen](https://github.com/Goethe-University/best-practices/blob/main/how-to-readme.de.md)
-* Verknüpfung zu RStudio
+* [Verknüpfung zu RStudio](https://github.com/Goethe-University/best-practices/blob/main/how-to-RStudio.de.md)
 
 Eine wichtige Anleitung fehlt oder die vorhandenen sind veraltet? Gerne unter git@ub.uni.frankfurt.de melden.
 
