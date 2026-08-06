@@ -145,3 +145,10 @@ Who carried out the project?
 ## 10. Licence
 
 At the end, reference is made to the licence under which the code and/or data are published.
+
+<br>
+
+## 11. Useful links and tools
+
+* READMEs are usually written in Markdown format. Here is an overview of Markdown syntax: https://www.markdownguide.org/cheat-sheet/
+* In GitHub READMEs or project documentation, badges are often used to display metrics such as build status, version numbers or test coverage: https://shields.io/
