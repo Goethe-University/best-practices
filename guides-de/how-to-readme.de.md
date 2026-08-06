@@ -1,9 +1,11 @@
-<img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/d2cd6bcb-375b-44a2-a4b5-9dfaf6f9cf09" />
+<img width="1618" height="121" alt="grafik" src="https://github.com/user-attachments/assets/6241eb9d-8beb-4c21-9f66-90fc99d55bcd" />
 
+---
 
 Eine README in einem Forschungsprojekt dient dazu, das Repository verständlich zu machen, den wissenschaftlichen Kontext zu erklären und die Nutzung bzw. Reproduzierbarkeit zu ermöglichen. Sie ist der erste Einstiegspunkt für alle, die das Projekt verstehen oder weiterverwenden möchten.
+<br>
 
-## Wichtige Prinzipien für Forschungs-READMEs
+### Wichtige Prinzipien für Forschungs-READMEs
 
 * Reproduzierbarkeit ermöglichen: Jemand anderes sollte dein Projekt nachvollziehen können.
 * Kontext liefern: Ohne Kontext sind Daten und Code schwer verständlich.
@@ -22,7 +24,7 @@ Am Anfang steht der Name des Projekts und eine kurze Beschreibung in ein bis zwe
 Short description of what this project is about.
 ```
 
----
+<br>
 
 ## 2. Hintergrund / Kontext
 
@@ -33,7 +35,8 @@ Hier wird der wissenschaftliche oder akademische Rahmen beschrieben. Wichtig ist
 
 This project was created as part of a research study/course in [field]. It investigates [research question or topic].
 ```
----
+
+<br>
 
 ## 3. 3. Ziel des Projekts
 
@@ -44,7 +47,8 @@ Dieser Abschnitt beschreibt klar, was mit dem Projekt erreicht werden soll.
 
 The goal of this project is to analyze / simulate / investigate [topic] in order to understand [specific question or phenomenon].
 ```
----
+
+<br>
 
 ## 4. Inhalt des Repositories
 
@@ -59,7 +63,7 @@ Hier wird die Struktur des Repositories erklärt. Das hilft anderen, sich schnel
 - report/      -> written report or documentation
 ```
 
----
+<br>
 
 ## 5. Datenbeschreibung
 
@@ -73,7 +77,7 @@ The dataset includes [type of data] collected from [source].
 Note: [missing values, preprocessing, limitations].
 ```
 
----
+<br>
 
 ## 6. Nutzung / Reproduzierbarkeit (Usage)
 
@@ -97,7 +101,7 @@ To run this project, you need Python installed.
 After running the script, the results will appear in the `results/` folder.
 ```
 
----
+<br>
 
 ## 7. Methoden
 
@@ -109,7 +113,7 @@ Hier werden die verwendeten Methoden kurz beschrieben (z. B. Statistik, Machine 
 This project uses [methods], such as [examples], to analyze the data.
 ```
 
----
+<br>
 
 ## 8. Ergebnisse
 
@@ -121,7 +125,7 @@ Optional: Eine kurze Zusammenfassung der wichtigsten Ergebnisse.
 The analysis shows that [main findings].
 ```
 
----
+<br>
 
 ## 9. Autorinnen und Autoren
 
@@ -133,7 +137,8 @@ Wer hat das Projekt erstellt?
 - Name 1
 - Name 2
 ```
----
+
+<br>
 
 ## 10. Lizenz
 
@@ -144,9 +149,10 @@ License
 
 See the LICENSE file for details.
 ```
----
 
-# 11. Hilfreiche Links und Tools
+<br>
+
+## 11. Hilfreiche Links und Tools
 
 * READMEs werden in er Regel im Markdown-Format erfasst. Hier eine Übersicht der Markdown-Syntax: https://www.markdownguide.org/cheat-sheet/
 * In GitHub-Readmes oder Projektdokumentationen werden häufig Badges verwendet, um Metriken wie Build-Status, Versionsnummern oder Testabdeckung anzuzeigen: https://shields.io/
