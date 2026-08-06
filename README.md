@@ -10,6 +10,8 @@
 
 Here you will find recommendations, best practices and specific step-by-step guides for Git, research software development and research data management.
 
+For those who are not so comfortable with the english language, german versions of this content are available in the [guides-de folder.](https://github.com/Goethe-University/best-practices/tree/main/guides-de)
+
 ---
 
 <details>
