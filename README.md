@@ -50,7 +50,8 @@ In addition to version control and collaboration using Git and GitHub, the disco
 further developed or integrated into other software)
 
 The FAIR4RS principles are published at https://doi.org/10.15497/RDA00068 and may be cited. We recommend this as a guide for working with research software; similar to the FAIR principles for research data.
-To create and work with a Software Management Plan (SMP) that closely follows the FAIR4RS principles, we recommend our service [RDMO@GU](https://rdmo.ub.uni-frankfurt.de/projects/). There, you can create an SMP project and be asked questions relevant to your needs. You can also use this document -- similar to a Data Management Plan (DMP) for research data -- to support your research in third-party funding applications.
+
+To create and work with a Software Management Plan (SMP) that closely follows the FAIR4RS principles, we recommend our service [RDMO@GU](https://rdmo.ub.uni-frankfurt.de/projects/). There, you can create an SMP project and be asked questions relevant to your needs. You can also use this document — similar to a Data Management Plan (DMP) for research data — to support your research in third-party funding applications.
 
 ---
 
