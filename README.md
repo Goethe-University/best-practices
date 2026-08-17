@@ -55,9 +55,25 @@ To create and work with a Software Management Plan (SMP) that closely follows th
 
 ---
 
-### Visibility on GitHub
+### Goethe University Visibility on GitHub
 
-*Text will be added*
+| GitHub.com Accounts or Organisations  |
+|---|
+|  https://github.com/AlexMeyer-Gohde |
+|  https://github.com/Aswendt-Lab |
+|  https://github.com/cvai-roig-lab |
+|  https://github.com/Frankfurt-BigDataLab |
+|  https://github.com/goethe-tcs |
+|  https://github.com/jeschaef/ |
+|  https://github.com/KJPMolgenLab |
+|  https://github.com/mlo-lab |
+|  https://github.com/SchulzLab |
+|  https://github.com/SEAL-Self-Assessment-and-Learning/ |
+|  https://github.com/sollago |
+|  https://github.com/texttechnologylab/ |
+|  https://github.com/ubffm |
+
+*Would you like to contribute to your section as a GU member? Feel free to submit a pull request or contact our support team.*
 
 ---
 
