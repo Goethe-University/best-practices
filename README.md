@@ -62,6 +62,8 @@ To create and work with a Software Management Plan (SMP) that closely follows th
 |  https://github.com/AlexMeyer-Gohde |
 |  https://github.com/Aswendt-Lab |
 |  https://github.com/cvai-roig-lab |
+|  https://github.com/FID-Biodiversity |
+|  https://github.com/FID-Judaica |
 |  https://github.com/Frankfurt-BigDataLab |
 |  https://github.com/goethe-tcs |
 |  https://github.com/jeschaef/ |
