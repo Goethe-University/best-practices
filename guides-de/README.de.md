@@ -83,7 +83,9 @@ Für die Erstellung und Bearbeitung eines Software Management Plans (SMP), der s
 
 Das erste Mal ein README anlegen oder die eigene Entwicklunhgsumgebung mit GitHub dem eigenen GitHub-Account verknüpfen? Untergeordnet sind ausführliche Anleitungen zu verschiedenen Vorgängen in GitHub zu finden.
 
+
 * [CITATION.cff-Datei erstellen](https://github.com/Goethe-University/best-practices/blob/main/how-to-cff.de.md)
+* [Hinzufügen einer Lizenz zu einem Repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 * [README anlegen](https://github.com/Goethe-University/best-practices/blob/main/how-to-readme.de.md)
 * [Verknüpfung zu RStudio](https://github.com/Goethe-University/best-practices/blob/main/how-to-RStudio.de.md)
 
