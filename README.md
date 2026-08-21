@@ -84,6 +84,7 @@ To create and work with a Software Management Plan (SMP) that closely follows th
 Creating a README for the first time, or linking your own development environment to your GitHub account? Detailed guides on various processes within GitHub can be found below.
 
 * [Create a CITATION.cff file](https://github.com/Goethe-University/best-practices/blob/main/how-to-cff.de.md)
+* [Choose a licence](https://choosealicense.com/)
 * [Adding a License to a Repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 * [Create a README](https://github.com/Goethe-University/best-practices/blob/main/how-to-readme.de.md)
 * [Link to RStudio](https://github.com/Goethe-University/best-practices/blob/main/how-to-RStudio.de.md)
